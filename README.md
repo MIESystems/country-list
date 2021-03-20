@@ -5,14 +5,14 @@ Country List is a package for Laravel which lists all countries with names and I
 
 ## Installation
 
-Run `composer require monarobase/country-list`.
+Run `composer require MIESystems/country-list`.
 
 Laravel 8 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
 
 If you don't use auto-discovery, add the ServiceProvider to the `providers` array in `config/app.php`
 
 ```php
-Monarobase\CountryList\CountryListServiceProvider::class,
+MIESystems\CountryList\CountryListServiceProvider::class,
 ```
 
 If needed, add the following alias as well.
