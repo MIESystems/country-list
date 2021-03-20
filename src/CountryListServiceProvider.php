@@ -4,18 +4,19 @@ declare(strict_types=1);
 namespace Monarobase\CountryList;
 
 /**
- * This file is part of Monarobase-CountryList
+ * This file is part of M-I-E-Systems\CountryList
+ * Reference : CountryList by Momenoor <momen.noor@gmail.com>
  *
- * (c) 2013 Monarobase
+ * (c) 2015-2021 M.I.E Systems
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  *
  *
- * @category    Monarobase
+ * @category    M-I-E-Systems
  * @package     CountryList
- * @copyright   (c) 2013 Monarobase <jonathan@monarobase.net>
- * @link        http://monarobase.net
+ * @copyright   (c) 2015-2021 M-I-E-Systems <momen.noor@gmail.com>
+ * @link        https://MIE.Systems
  */
 
 use Illuminate\Support\ServiceProvider;
@@ -23,7 +24,7 @@ use Illuminate\Support\ServiceProvider;
 /**
  * CountryListServiceProvider
  *
- * @author Monarobase <jonathan@monarobase.net>
+ * @author Momen Noor <momen.noor@gmail.com>
  */
 class CountryListServiceProvider extends ServiceProvider
 {
