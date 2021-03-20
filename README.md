@@ -26,7 +26,7 @@ If needed, add the following alias as well.
 - Locale (en, en_US, fr, fr_CA...)
 - Format (csv, flags.html, html, json, mysql.sql, php, postgresql.sql, sqlite.sql, sqlserver.sql, txt, xml, yaml)
 
-Get all countries
+Get all countries list
 
 ```php
 Route::get('/', function()
