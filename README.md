@@ -18,7 +18,7 @@ MIESystems\CountryList\CountryListServiceProvider::class,
 If needed, add the following alias as well.
 
 ```php
-'Countries' => Monarobase\CountryList\CountryListFacade::class,
+'Countries' => MIESystems\CountryList\CountryListFacade::class,
 ```
 
 ## Usage
